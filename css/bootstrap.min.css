@@ -6890,7 +6890,8 @@
     color: inherit !important;
   }
   .bg-primary {
-    background-color: #d4a762 !important;
+    /* background-color: #d4a762 !important; */
+    background-color: maroon !important;
   }
   .bg-secondary {
     background-color: #9a9a9a !important;
