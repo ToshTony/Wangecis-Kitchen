@@ -18,7 +18,8 @@
     --bs-white: #fff;
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
-    --bs-primary: #d4a762;
+    /* --bs-primary: #d4a762; */
+    --bs-primary: maroon;
     --bs-secondary: #9a9a9a;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
@@ -3639,6 +3640,7 @@
   .nav-link:hover,
   .nav-link:focus {
     color: #aa864e;
+    
   }
   .nav-link.disabled {
     color: #6c757d;
