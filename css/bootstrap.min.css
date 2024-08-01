@@ -6097,7 +6097,9 @@
     border-left: 0 !important;
   }
   .border-primary {
-    border-color: #d4a762 !important;
+    /* border-color: #d4a762 !important; */
+    border-color: maroon !important;
+    
   }
   .border-secondary {
     border-color: #9a9a9a !important;
@@ -6839,7 +6841,8 @@
     word-break: break-word !important;
   }
   .text-primary {
-    color: #d4a762 !important;
+    /* color: #d4a762 !important; */
+    color: maroon !important;
   }
   .text-secondary {
     color: #9a9a9a !important;
