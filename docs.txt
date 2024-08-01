@@ -8,3 +8,8 @@ git config --global user.email "jayton006@gmail.com"
 git config --global --list
 git remote -v
 git config --list
+
+
+
+check this out
+https://github.com/moeen-basra/laravel-react
