@@ -153,6 +153,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 
 
 /*** Events Start ***/
+/* figure this out */
 .event .tab-class .nav-item a.active {
     background: var(--bs-primary) !important;
 }
