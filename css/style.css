@@ -213,7 +213,11 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 .service-item:hover .service-content-icon i {
-    color: var(--bs-dark) !important;
+    color: var(--bs-light) !important;
+}
+
+.service-item:hover .service-content-icon h4 {
+    color: var(--bs-light) !important;
 }
 
 .service-item:hover .service-content-icon p {
