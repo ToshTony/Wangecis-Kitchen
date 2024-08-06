@@ -13,5 +13,3 @@ git config --list
 
 check this out
 https://github.com/moeen-basra/laravel-react
-
-inakubalika dance
